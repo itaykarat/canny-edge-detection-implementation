@@ -2,6 +2,8 @@
 
 Implementation of the canny edge detection algorithm.
 
+{different classes to support applications S.A webcam, tello drone and manual image edge detection}
+
 
 ![image](https://user-images.githubusercontent.com/60778119/150652706-af7bc78a-247d-4438-983b-5230b410d66a.png)
 
